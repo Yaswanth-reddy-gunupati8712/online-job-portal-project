@@ -87,3 +87,5 @@ Discord:https://discord.com/invite/9TPphFmGMh
 ONCE SET UP IS DONE, PLEASE DO SUBSCRIBE MY YOUTUBE CHANNEL: https://www.youtube.com/@CodeWithMurad
 
 *********** THANK YOU ***********
+
+Your site is live at https://yaswanth-reddy-gunupati8712.github.io/online-job-portal-project/
